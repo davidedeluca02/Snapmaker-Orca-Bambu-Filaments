@@ -1,13 +1,13 @@
 # Snapmaker-Orca-Bambu-Filaments
 Bambu Lab Filaments &amp; Official Color Palettes for Snapmaker Orca.
 
-Add Bambu Lab PLA Basic and PLA Matte filament profiles to Snapmaker Orca, including their official color palettes.
+<b>Add Bambu Lab PLA Basic and PLA Matte filament profiles to Snapmaker Orca, including their official color palettes.</b>
 
 You can select Bambu filament colors directly from the "Official Filaments" color picker, just like with Snapmaker filaments.
 
 No recompilation or software modifications required!
 
-Tested on Snapmaker Orca 2.4.1 for Windows, but you should be able to replicate also on other versions or operating system. 
+Tested on Snapmaker Orca <b>2.4.1</b> for Windows, but you should be able to replicate also on other versions or operating system. 
 
 NOTE: This is an unofficial community modification. Please back up your existing profiles before installing.
 
